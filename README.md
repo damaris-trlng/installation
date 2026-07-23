@@ -8,7 +8,7 @@ You can download it at the [official website](https://code.visualstudio.com/Down
 
 # Node.js Installation
 
-Node.js is a JavaScript runtime that lets you run JavaScript code outside of the browser — directly on your machine. It is required for running the exercises, which are written in **TypeScript**.
+Node.js is a JavaScript runtime that lets you run JavaScript code outside of the browser — directly on your machine. It is required for running the exercises, which are written in **JavaScript** and **TypeScript**.
 
 - **JavaScript** runs directly on Node.js.
 - **TypeScript** is a typed superset of JavaScript. Node.js does not execute TypeScript directly, but it provides the ecosystem to compile and run TypeScript files.
