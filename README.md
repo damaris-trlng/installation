@@ -14,3 +14,17 @@ Node.js is a JavaScript runtime that lets you run JavaScript code outside of the
 - **TypeScript** is a typed superset of JavaScript. Node.js does not execute TypeScript directly, but it provides the ecosystem to compile and run TypeScript files.
 
 To install Node.js, follow the instructions at the [official download page](https://nodejs.org/en/download). Run the installer and follow the steps — this will also install `npm` (Node Package Manager), which you will use to manage dependencies throughout the exercises.
+
+# Git Installation
+
+Git is a version control system used to track changes in code. You will use it throughout the exercises to download challenge repositories and submit your work.
+
+To install Git, go to the [official download page](https://git-scm.com/install), download the installer for your operating system, and follow the setup steps. Select the default options during installation if you are not sure.
+
+After installing, verify it worked by opening a terminal and running:
+
+```
+git --version
+```
+
+You should see a version number printed, such as `git version 2.x.x`.
