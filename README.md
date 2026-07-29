@@ -6,6 +6,15 @@ You can download it at the [official website](https://code.visualstudio.com/Down
 
 ![image](https://github.tools.sap/user-attachments/assets/14a15382-3981-476c-b4ab-05ca6669d03a)
 
+# Recommended Extensions
+
+Extensions add functionality to VSCode. You can install them from the Extensions panel (`Ctrl+Shift+X`). The following are recommended for this course:
+
+- **[Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** (`esbenp.prettier-vscode`) — automatically formats your JavaScript and TypeScript files so the code stays consistent and readable.
+- **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)** (`dbaeumer.vscode-eslint`) — highlights code quality issues and common mistakes as you type.
+
+> Please note, VSCode comes with builtin Javascript + Typescript support, so an LSP is not necessary for these languages
+
 # Node.js Installation
 
 Node.js is a JavaScript runtime that lets you run JavaScript code outside of the browser — directly on your machine. It is required for running the exercises, which are written in **JavaScript** and **TypeScript**.
