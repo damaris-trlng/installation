@@ -4,7 +4,7 @@ VSCode is an **Integrated Development Environment (IDE)**, a tool used to build 
 
 You can download it at the [official website](https://code.visualstudio.com/Download). Download the installer, run it and follow the installation steps.
 
-![image](https://github.tools.sap/user-attachments/assets/14a15382-3981-476c-b4ab-05ca6669d03a)
+![image](https://github.com/user-attachments/assets/7507c23d-c55d-44ca-87fb-9031df989674)
 
 # Recommended Extensions
 
